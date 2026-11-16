@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="每天一點練習，用翻轉卡片累積英文單字。">
+    <title>Vocabulary Garden</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/app.js" defer></script>
+  </head>
+  <body>
+    <main class="garden">
+      <header class="page-header">
+        <span class="garden-mark" aria-hidden="true">❧</span>
+        <p class="eyebrow">每天一點，慢慢成長</p>
+        <h1 lang="en">Vocabulary Garden</h1>
+        <p class="introduction">給單字一點時間，讓記憶慢慢發芽。<br>先想想意思，再翻開卡片看看。</p>
+      </header>
+
+      <section class="practice" aria-label="單字練習">
+        <div class="category-field">
+          <label for="category">今天想練習什麼？</label>
+          <select id="category" disabled></select>
+        </div>
+
+        <p id="status" class="status" role="status">正在準備你的單字卡……</p>
+
+        <button id="flashcard" class="flashcard" type="button" aria-label="翻開單字卡" aria-pressed="false" hidden>
+          <span id="card-face" class="card-face">英文單字</span>
+          <span id="word" class="word" lang="en"></span>
+          <span id="answer" class="answer" hidden>
+            <span id="part-of-speech" class="part-of-speech" lang="en"></span>
+            <span id="meaning" class="meaning"></span>
+            <span class="example-label">例句</span>
+            <span id="example" class="example" lang="en"></span>
+          </span>
+          <span id="flip-hint" class="flip-hint">點一下卡片，查看答案</span>
+        </button>
+
+        <nav class="navigation" aria-label="單字卡導覽">
+          <button id="previous" class="nav-button" type="button" disabled><span aria-hidden="true">←</span> 上一張</button>
+          <p id="progress" class="progress" role="status" aria-live="polite" aria-atomic="true">第 0 / 0 張</p>
+          <button id="next" class="nav-button" type="button" disabled>下一張 <span aria-hidden="true">→</span></button>
+        </nav>
+        <p class="keyboard-hint">也可以用 Tab 選取卡片，再按 Enter 或空白鍵翻面</p>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "daily-breakfast",
+    "word": "breakfast",
+    "partOfSpeech": "noun",
+    "meaning": "早餐",
+    "example": "I usually have eggs and toast for breakfast.",
+    "category": "daily"
+  },
+  {
+    "id": "daily-neighbor",
+    "word": "neighbor",
+    "partOfSpeech": "noun",
+    "meaning": "鄰居",
+    "example": "Our neighbor waters our plants when we are away.",
+    "category": "daily"
+  },
+  {
+    "id": "daily-borrow",
+    "word": "borrow",
+    "partOfSpeech": "verb",
+    "meaning": "借入；借用",
+    "example": "May I borrow your umbrella until tomorrow?",
+    "category": "daily"
+  },
+  {
+    "id": "daily-routine",
+    "word": "routine",
+    "partOfSpeech": "noun",
+    "meaning": "例行公事；日常作息",
+    "example": "A short walk is part of my morning routine.",
+    "category": "daily"
+  },
+  {
+    "id": "daily-appointment",
+    "word": "appointment",
+    "partOfSpeech": "noun",
+    "meaning": "預約；約定的會面",
+    "example": "I have an appointment with the dentist at ten.",
+    "category": "daily"
+  },
+  {
+    "id": "academic-resilient",
+    "word": "resilient",
+    "partOfSpeech": "adjective",
+    "meaning": "有韌性的；適應力強的",
+    "example": "She remained resilient despite difficulties.",
+    "category": "academic"
+  },
+  {
+    "id": "academic-analyze",
+    "word": "analyze",
+    "partOfSpeech": "verb",
+    "meaning": "分析",
+    "example": "The researchers will analyze the results of the experiment.",
+    "category": "academic"
+  },
+  {
+    "id": "academic-evidence",
+    "word": "evidence",
+    "partOfSpeech": "noun",
+    "meaning": "證據；佐證",
+    "example": "The study provides evidence that regular exercise improves sleep.",
+    "category": "academic"
+  },
+  {
+    "id": "academic-hypothesis",
+    "word": "hypothesis",
+    "partOfSpeech": "noun",
+    "meaning": "假說；假設",
+    "example": "The scientists designed an experiment to test their hypothesis.",
+    "category": "academic"
+  },
+  {
+    "id": "academic-significant",
+    "word": "significant",
+    "partOfSpeech": "adjective",
+    "meaning": "重要的；顯著的",
+    "example": "The discovery made a significant contribution to medical research.",
+    "category": "academic"
+  },
+  {
+    "id": "technology-software",
+    "word": "software",
+    "partOfSpeech": "noun",
+    "meaning": "軟體",
+    "example": "You need to install the software before using the printer.",
+    "category": "technology"
+  },
+  {
+    "id": "technology-browser",
+    "word": "browser",
+    "partOfSpeech": "noun",
+    "meaning": "瀏覽器",
+    "example": "Open your browser and enter the website address.",
+    "category": "technology"
+  },
+  {
+    "id": "technology-network",
+    "word": "network",
+    "partOfSpeech": "noun",
+    "meaning": "網路",
+    "example": "All the computers in the office are connected to the same network.",
+    "category": "technology"
+  },
+  {
+    "id": "technology-encrypt",
+    "word": "encrypt",
+    "partOfSpeech": "verb",
+    "meaning": "加密",
+    "example": "The app encrypts your messages to protect your privacy.",
+    "category": "technology"
+  },
+  {
+    "id": "technology-algorithm",
+    "word": "algorithm",
+    "partOfSpeech": "noun",
+    "meaning": "演算法",
+    "example": "The search engine uses an algorithm to rank web pages.",
+    "category": "technology"
+  }
+]
