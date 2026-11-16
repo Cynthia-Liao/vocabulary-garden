@@ -4,7 +4,7 @@
 
 ## 功能
 
-- 日常英文（daily）、學術英文（academic）、科技英文（technology），各 5 個單字。
+- 日常英文（daily）、學術英文（academic）、科技英文（technology）、商業英文（business），各 5 個單字。
 - 點擊或觸控卡片翻面；以 Tab 選取卡片後，也能用 Enter 或空白鍵操作。
 - 正面顯示英文單字，背面顯示詞性、繁體中文解釋及英文例句。
 - 上一張／下一張與目前分類的張數進度；切換單字或分類時回到正面，切換分類時回到第一張。
@@ -38,7 +38,7 @@ data/vocabulary.json  所有單字資料
 1. 將專案推送至 GitHub 儲存庫。
 2. 在儲存庫 **Settings → Pages → Build and deployment** 選擇 **Deploy from a branch**。
 3. 選擇存放專案的分支（例如 `main`），目錄選擇 **/ (root)**，儲存設定。
-4. 部署完成後開啟 Pages 提供的網址，確認三個分類、卡片翻面、導覽及進度正常。
+4. 部署完成後開啟 Pages 提供的網址，確認四個分類、卡片翻面、導覽及進度正常。
 5. 開啟該網站網址下的 `data/vocabulary.json`，確認可以讀取 JSON，並在瀏覽器開發者工具確認沒有 JavaScript 錯誤。
 
 所有資源皆使用相對路徑，可放在 GitHub Pages 的儲存庫子路徑。

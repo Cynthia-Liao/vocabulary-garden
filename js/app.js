@@ -4,6 +4,7 @@ const categoryNames = {
   daily: "日常英文 · Daily English",
   academic: "學術英文 · Academic English",
   technology: "科技英文 · Technology English",
+  business: "商業英文 · Business English",
 };
 
 const categorySelect = document.querySelector("#category");
