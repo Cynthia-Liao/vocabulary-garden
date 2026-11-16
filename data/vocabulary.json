@@ -118,5 +118,45 @@
     "meaning": "演算法",
     "example": "The search engine uses an algorithm to rank web pages.",
     "category": "technology"
+  },
+  {
+    "id": "business-budget",
+    "word": "budget",
+    "partOfSpeech": "noun",
+    "meaning": "預算",
+    "example": "We need to set a budget for the new marketing campaign.",
+    "category": "business"
+  },
+  {
+    "id": "business-revenue",
+    "word": "revenue",
+    "partOfSpeech": "noun",
+    "meaning": "營收；收入",
+    "example": "The company's revenue increased by ten percent last year.",
+    "category": "business"
+  },
+  {
+    "id": "business-profit",
+    "word": "profit",
+    "partOfSpeech": "noun",
+    "meaning": "利潤；獲利",
+    "example": "The store made a profit after covering all its expenses.",
+    "category": "business"
+  },
+  {
+    "id": "business-contract",
+    "word": "contract",
+    "partOfSpeech": "noun",
+    "meaning": "合約；契約",
+    "example": "Please read the contract carefully before you sign it.",
+    "category": "business"
+  },
+  {
+    "id": "business-negotiate",
+    "word": "negotiate",
+    "partOfSpeech": "verb",
+    "meaning": "談判；協商",
+    "example": "We will negotiate a better price with the supplier.",
+    "category": "business"
   }
 ]
